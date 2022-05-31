@@ -1,6 +1,10 @@
 # atividade-UC7
 Repositório para atividade UC7
+
+
 Os principais comandos utilizados para gerenciar o versionamento do meu código foram:
+
+
 git init: Cria a estrutura inicial do repositório Git no computador local;
 git status: Verifica o status das alterações realizadas no repositório;
 git add: Adiciona arquivos ao histórico do projeto, na staging;
